@@ -19,7 +19,7 @@ For each game the report gives:
 - in the game's own JavaScript (data/, [iscript] blocks and index.html, not the stock engine),
   how often it reaches for things the core must refuse or confine: studio_api, require(),
   Node/NW.js/Electron objects, child processes, shell open, window.open and network calls.
-  These feed the risk list (Droidtop/tracker#868).
+  These feed the risk list (mytop-project/tracker#868).
 """
 import argparse
 import collections

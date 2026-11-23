@@ -1,6 +1,6 @@
 # Enginehost TyranoScript core
 
-TyranoScript's own Enginehost core (Droidtop/tracker#868). The owner, 2026-11-04: "Tyrano should
+TyranoScript's own Enginehost core (mytop-project/tracker#868). The owner, 2026-11-04: "Tyrano should
 get its own core too, in case that wasn't clear." Every engine keeps its own core (Enginehost
 `docs/SPEC.md`, "Every engine keeps its own core"); until this core is published, Tyrano games keep
 running on the HTML core. It is built under Enginehost's policy for cores written from scratch
